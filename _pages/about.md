@@ -21,17 +21,30 @@ Hello! I’m **Yao** **Zhang** (张瑶). I am currently a lecturer at the School
 
 Before that, I received my Ph.D. (2022) and B.S. (2017) from Nankai University, advised by [Prof. Zhenglu Yang](https://scholar.google.com/citations?user=u5LzNHcAAAAJ&hl=zh-CN). From 2021 to 2022, I was a visiting student at the [NExT](https://www.nextcenter.org/) Research Centre at the National University of Singapore (NUS), where I was mentored by [Prof. Wenqiang Lei](https://scholar.google.com/citations?user=qexdxuEAAAAJ&hl=zh-CN) and [Prof. Chua Tat-Seng](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN).
 
-My primary research interests lie in the area of Statistics and Data Science, with a focus on the following topics:
-<br>
-**Knowledge-Driven Complex Reasoning**
-My research focuses on deep, multi-step reasoning. Building on foundational work in logical reasoning over structured knowledge, I now investigate how models can perform self-correction and dynamic evolution to address noisy, open-domain challenges.
 
-**Trustworthy AI for Improving Doctor-Patient Communication**
-My research in trustworthy AI aims to improve doctor-patient communication via medical NLP. I develop tools to navigate the ambiguities of clinical dialogues and accurately capture patient intent, fostering clearer and more empathetic interactions to strengthen the therapeutic relationship.
-
-**Controllability in Multimodal Generation**
-My research focuses on achieving fine-grained control in multimodal generation. I aim for precise command over the style, logic, and factuality of outputs, building on methods that generate structured content from visual data to create reliable AI partners for creative and educational applications.
 <br>
+## Research Interests
+
+My research focuses on **trustworthy knowledge reasoning that integrates LLMs with KGs**, aiming to enhance the reasoning capability, reliability, and safety of models in complex knowledge-intensive scenarios. Specifically, my work covers the following directions:
+
+### Knowledge-Enhanced Reasoning
+
+I study methods for integrating **LLMs** with **KGs**, leveraging structured knowledge to support complex multi-hop reasoning and improve the accuracy and interpretability of the reasoning process.
+
+### Reasoning Reliability
+
+I investigate reasoning stability under conditions of dynamic knowledge updates, insufficient evidence, and knowledge conflicts. My work explores knowledge editing, conflict resolution, and proactive abstention mechanisms to reduce hallucinations and erroneous reasoning.
+
+### Reasoning Safety
+
+I study safety risks in knowledge reasoning scenarios, including jailbreak attacks, knowledge-path manipulation, and reasoning-chain interference, and develop corresponding evaluation and defense mechanisms.
+
+### Real-World Applications
+
+In addition, our team has a long-standing interest in the deployment of **AI technologies** in real-world applications, particularly in **industrial intelligence** and **healthcare**. We explore how trustworthy knowledge reasoning can support practical needs such as complex decision support, risk identification, and human-AI collaboration.
+<br>
+
+
 
 
 <div style="background-color: #f5f5f5; border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
