@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yao Zhang"
-  avatar           : "images/me4.jpg"
+  avatar           : "me4.jpg"
   bio              : "Nankai University"
   location         : "Tianjin, China"
   employer         :
