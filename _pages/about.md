@@ -50,7 +50,7 @@ In addition, our team has a long-standing interest in the deployment of **AI tec
 🚀 <span style="color:red;"><b>课题组招新啦！</b></span><br><br>
 <span style="color:red;">我们正在寻找对科研充满热情的你，期待与你并肩前行，共同攻克学术难题！</span><br><br>
 🎯 <span style="color:red;"><b>招募对象：</b></span><br>
-<span style="color:red;">· <b>研究生</b>：2026级、2027级（学术型硕士 / 专业型硕士 名额均有空缺）</span><br>
+<span style="color:red;">· <b>研究生</b>：2027级（学术型硕士 / 专业型硕士 名额均有空缺）</span><br>
 <span style="color:red;">· <b>本科生</b>：欢迎对科研有浓厚兴趣的同学提前进组，参与实际课题、积累科研经验</span><br><br>
 📬 <span style="color:red;">欢迎将你的简历和想法发送至：<b>yaozhang@nankai.edu.cn</b></span>
 </div>
